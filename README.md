@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mujeebnazir!
-- 👀 I’m interested in Full-Stack developing and Blockchain!
-- 🌱 I’m currently learning MERN developing!
+- 👀 I’m interested in Full-Stack developer!
+- 🌱 I’m currently learning GO developing!
 - 💞️ I’m looking to collaborate on projects related to front-end & back-end environment!
 - 📫 How to reach me : mujee703@gmail.com
 
